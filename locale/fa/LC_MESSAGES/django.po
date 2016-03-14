@@ -1,0 +1,1267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-30 9:38-0700\n"
+"PO-Revision-Date: Thu Feb 11 2016 22:40:40 GMT+0330 (Iran Standard Time)\n"
+"Last-Translator: \n"
+"Language-Team: Arman Roomana <roomana.arman@gmail.com>\n"
+"Language: Persian\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Source-Locale: fa_IR\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: fa\n"
+"X-Generator: Loco - https://localise.biz/"
+
+msgid ""
+"\n"
+"                        maxlength: \"up to %(max_number_of_tags)s tags, less "
+"than %(max_length_of_tags)s characters each\"\n"
+"                        "
+msgstr ""
+"\n"
+"<div class=\"questions-count\">%(q_num)s</div><p>question with title "
+"containing <strong><span class=\"darkred\">%(searchtitle)s</span></strong></p>"
+
+#, c-format
+msgid ""
+"\n"
+"                    <span class=\"count\">%(cnt)s</span> Vote\n"
+"                "
+msgid_plural ""
+"\n"
+"                    <span class=\"count\">%(cnt)s</span> Votes\n"
+"                "
+msgstr[0] " <span class=\"count\">%(cnt)s</span> رای"
+msgstr[1] ""
+"\n"
+"(one comment)"
+
+#, c-format
+msgid ""
+"\n"
+"                    <span class=\"count\">%(counter)s</span> Tag\n"
+"                "
+msgid_plural ""
+"\n"
+"                    <span class=\"count\">%(counter)s</span> Tags\n"
+"                "
+msgstr[0] ""
+"\n"
+"<span class=\"count\">%(counter)s</span> برچسب"
+msgstr[1] ""
+"\n"
+"(one comment)"
+
+#, c-format
+msgid ""
+"\n"
+"                <span class=\"count\">%(counter)s</span> Answer\n"
+"                "
+msgid_plural ""
+"\n"
+"                <span class=\"count\">%(counter)s</span> Answers\n"
+"                "
+msgstr[0] "<span class=\"count\">%(counter)s</span> جواب"
+msgstr[1] ""
+"\n"
+"(one comment)"
+
+#, c-format
+msgid ""
+"\n"
+"                <span class=\"count\">%(counter)s</span> Question\n"
+"                "
+msgid_plural ""
+"\n"
+"                <span class=\"count\">%(counter)s</span> Questions\n"
+"                "
+msgstr[0] ""
+"\n"
+"<div class=\"questions-count\">%(counter)s</div><p>سوالات بدون جواب تایید "
+"شده</p>"
+msgstr[1] ""
+"\n"
+"<div class=\"questions-count\">%(q_num)s</div><p>questions without an accepted "
+"answer</p>"
+
+#, c-format
+msgid ""
+"\n"
+"            %(author_link)s has just posted a new answer on %(app_name)s to "
+"the question\n"
+"            %(question_link)s:\n"
+"            "
+msgstr ""
+"\n"
+"<div class=\"questions-count\">%(q_num)s</div><p>question tagged</p><p><span "
+"class=\"tag\">%(tagname)s</span></p>"
+
+#, c-format
+msgid ""
+"\n"
+"            %(new_member_links)s have joined the %(app_name)s community.\n"
+"        "
+msgstr ""
+"\n"
+"<div class=\"questions-count\">%(q_num)s</div><p>question tagged</p><p><span "
+"class=\"tag\">%(tagname)s</span></p>"
+
+#, c-format
+msgid ""
+"\n"
+"            This is a brief of what's going on the %(app_name)s community "
+"since our last update.\n"
+"            "
+msgstr ""
+"\n"
+"(one comment)"
+
+#, c-format
+msgid ""
+"\n"
+"Award %(awarded_user)s with reputation points.\n"
+msgstr "sorry, file uploading requires karma >60"
+
+msgid " cancel"
+msgstr "صرف نظر"
+
+msgid " comment"
+msgstr "پانویس"
+
+msgid "\"field\" not subset of \"group\""
+msgstr "رشته تحصیلی عضو گروه تحصیلی نیست."
+
+#, c-format
+msgid "%(author_link)s has just posted a comment on "
+msgstr ""
+"\n"
+"<div class=\"questions-count\">%(q_num)s</div><p>question tagged</p><p><span "
+"class=\"tag\">%(tagname)s</span></p>"
+
+#, c-format
+msgid "%(comment_author)s has just posted a comment on "
+msgstr ""
+"\n"
+"<div class=\"questions-count\">%(q_num)s</div><p>question tagged</p><p><span "
+"class=\"tag\">%(tagname)s</span></p>"
+
+#, c-format
+msgid "%(days)d days ago"
+msgstr "%(days)d روز پیش"
+
+#, c-format
+msgid "%(prefix)s An answer to: %(question_title)s has been accepted"
+msgstr "Post Your Answer"
+
+#, c-format
+msgid "%(prefix)s New answer to: %(question_title)s"
+msgstr "Post Your Answer"
+
+#, c-format
+msgid "%(prefix)s New comment on: %(question_title)s"
+msgstr "Post Your Answer"
+
+#, c-format
+msgid "%(user)s answered %(asker)s on %(question)s"
+msgstr "%(user)s جواب داده شده %(asker)s در %(question)s"
+
+#, c-format
+msgid "%(user)s asked %(question)s"
+msgstr "بدون جواب"
+
+#, c-format
+msgid "%(user)s converted comment on %(question)s into an answer"
+msgstr ""
+"<span class='big strong'>You are welcome to answer your own question</span>, "
+"but please make sure to give an <strong>answer</strong>. Remember that you "
+"can always <strong>revise your original question</strong>. Please "
+"<strong>use comments for discussions</strong>  and <strong>please don't "
+"forget to vote :)</strong> for the answers that you liked (or perhaps did "
+"not like)! "
+
+#, c-format
+msgid "%(user)s converted comment on %(question)s to a new question"
+msgstr ""
+"<span class='big strong'>You are welcome to answer your own question</span>, "
+"but please make sure to give an <strong>answer</strong>. Remember that you "
+"can always <strong>revise your original question</strong>. Please "
+"<strong>use comments for discussions</strong>  and <strong>please don't "
+"forget to vote :)</strong> for the answers that you liked (or perhaps did "
+"not like)! "
+
+#, c-format
+msgid "%s has no accepted answers"
+msgstr "%s بدون جواب پذیرفته شده"
+
+#, c-format
+msgid "%s has one accepted answer"
+msgstr "%s یک جواب پذیرفته شده"
+
+msgid "(required)"
+msgstr "(الزامی)"
+
+msgid "2 days ago"
+msgstr "دو روز قبل"
+
+msgid "Administrator"
+msgstr "مدیریت"
+
+msgid "All Questions"
+msgstr "تمام سوالات"
+
+msgid "All questions"
+msgstr "تمام سوالات"
+
+msgid "All tags matching query"
+msgstr "تمام برچسب های مطابق با کوئری"
+
+msgid "Answer Your Own Question"
+msgstr "به سوال خود جواب دهید"
+
+#, c-format
+msgid "Answer by %s"
+msgstr "Tips"
+
+msgid "Answer the question"
+msgstr "ارسال جواب شما"
+
+#, c-format
+msgid "Answer voted up %s times"
+msgstr "Post Your Answer"
+
+#, c-format
+msgid "Answered your own question with at least %s up votes"
+msgstr ""
+"<span class='big strong'>You are welcome to answer your own question</span>, "
+"but please make sure to give an <strong>answer</strong>. Remember that you "
+"can always <strong>revise your original question</strong>. Please "
+"<strong>use comments for discussions</strong>  and <strong>please don't "
+"forget to vote :)</strong> for the answers that you liked (or perhaps did "
+"not like)! "
+
+#, c-format
+msgid "Answers to: %s"
+msgstr "Tips"
+
+msgid "Are you sure?"
+msgstr "شما مطمئن هستید؟"
+
+msgid ""
+"As a registered user you can login with your OpenID, log out of the site or "
+"permanently remove your account."
+msgstr ""
+"Clicking <strong>Logout</strong> will log you out from the forum, but will "
+"not sign you off from your OpenID provider.</p><p>If you wish to sign off "
+"completely - please make sure to log out from your OpenID provider as well."
+
+msgid "Ask a question"
+msgstr "پرسیدن سوال"
+
+msgid "Ask your question"
+msgstr "ارسال سوال"
+
+msgid "Authentication settings"
+msgstr "تنظیمات احراز هویت"
+
+msgid "Badge"
+msgstr "مدال"
+
+msgid "Badges"
+msgstr "مدال ها"
+
+msgid "Be the first one to answer this question!"
+msgstr "اولین نفری باشید که به این سوال پاسخ میدهد!"
+
+msgid "Cancel"
+msgstr "انصراف"
+
+msgid "Change password"
+msgstr "تغییر گذرواژه"
+
+msgid "Close"
+msgstr "بستن"
+
+msgid "Community badges"
+msgstr "سطح مدال ها"
+
+msgid "Community gives you awards for your questions, answers and votes."
+msgstr ""
+"In addition to the reputation earned through asking useful questions and "
+"providing correct answers, you'll be recognised with badges to recognise "
+"actions that benefit the community."
+
+msgid "Connect your OpenID with this site"
+msgstr "ثبت نام کاربر جدید"
+
+msgid "Connect your OpenID with your account on this site"
+msgstr "ثبت نام کاربر جدید"
+
+msgid "Copy"
+msgstr "کپی"
+
+msgid "Date of birth"
+msgstr "تاریخ تولد"
+
+msgid "Delete comment"
+msgstr "حذف پانویس"
+
+msgid "Edit"
+msgstr "ویرایش"
+
+msgid "Edit answer"
+msgstr "ویرایش جواب"
+
+msgid "Edit comment"
+msgstr "ویرایش پانویس"
+
+msgid "Edit question"
+msgstr "ویرایش سوال"
+
+msgid "Edit user profile"
+msgstr "ویرایش پروفایل"
+
+msgid "Email (not shared with anyone):"
+msgstr "ایمیل (پنهان از دیگران)"
+
+msgid "FAQ"
+msgstr "Frequently Asked Questions"
+
+msgid "Forgot your password?"
+msgstr "رمز خود را فراموش کردید؟"
+
+msgid "Found by tags"
+msgstr "Tagged questions"
+
+msgid "Found by title"
+msgstr "یافت شده با عنوان"
+
+msgid "I dont like this post (click again to cancel)"
+msgstr "دادن امتیاز منفی"
+
+msgid "I have read the rules and accept it"
+msgstr "قوانین سایت را خواندم، و از آن ها را قبول می کنم."
+
+msgid "I like this comment (click again to cancel)"
+msgstr "این پانویس مفید بود (برای لغو دوباره کلیک کنید)"
+
+msgid "I like this post (click again to cancel)"
+msgstr "دادن امتیاز مثبت"
+
+msgid "Ignored tags"
+msgstr "نادیده گرفتن برچسب"
+
+msgid "Instantly"
+msgstr "بلافاصله"
+
+msgid "Interesting tags"
+msgstr "برچسب های جالب"
+
+msgid "Location"
+msgstr "محل"
+
+msgid "Login"
+msgstr "ورود"
+
+msgid "Login/Signup to Post Your Answer"
+msgstr "وارد شوید، جواب خود را ارسال کنید"
+
+msgid "Login/signup to post your question"
+msgstr "وارد شوید، سوال بپرسید"
+
+msgid "Logout"
+msgstr "خروج"
+
+msgid "Logout now"
+msgstr "تایید خروج"
+
+msgid "Message body:"
+msgstr "متن پیام"
+
+msgid "Message:"
+msgstr "پیام"
+
+msgid "Moderation"
+msgstr "مشهورترین"
+
+msgid "Moderator"
+msgstr "شهرت"
+
+msgid "Most <strong>recently updated</strong> questions"
+msgstr "آخرین سوالات بروز شده"
+
+msgid "No"
+msgstr "خیر"
+
+msgid "No notifications"
+msgstr "بدون اطلاعیه"
+
+msgid "No questions like this have been found."
+msgstr "هیچ سوال مشابه ی با سوال شما یافت نشد."
+
+msgid "Not logged in"
+msgstr "هنوز وارد نشدید"
+
+msgid "Not validated"
+msgstr "تایید نشده"
+
+msgid "Nothing found"
+msgstr "چیزی یافت نشد"
+
+msgid "Nothing found."
+msgstr "چیزی یافت نشد."
+
+msgid "Ok"
+msgstr "تایید"
+
+#, c-format
+msgid "One Answer"
+msgid_plural "%(counter)s Answers"
+msgstr[0] "جدیدترین"
+msgstr[1] "جدیدترین"
+
+#, c-format
+msgid "One Answer:"
+msgid_plural "%(counter)s Answers:"
+msgstr[0] "جدیدترین"
+msgstr[1] "جدیدترین"
+
+msgid "Online Users"
+msgstr "کاربران آنلاین"
+
+msgid "Or..."
+msgstr "یا ..."
+
+msgid "Other settings"
+msgstr "دیگر تنظیمات"
+
+msgid "Permanent link"
+msgstr "لینک پایدار"
+
+msgid "Personal Information"
+msgstr "اطلاعات شخصی"
+
+msgid "Place the comment under:"
+msgstr "جایگزاری پانویس تحت:"
+
+msgid "Private message"
+msgstr "پیام خصوصی"
+
+msgid "Profile"
+msgstr "پروفایل"
+
+msgid "Public message"
+msgstr "پیام عمومی"
+
+msgid "Publish"
+msgstr "انتشار"
+
+msgid "Published"
+msgstr "منتشر شده"
+
+msgid "Question tags"
+msgstr "برچسب ها"
+
+msgid "Questions"
+msgstr "سوالات"
+
+msgid "Questions Tagged With %(tag)s"
+msgstr "Tags"
+
+#, c-format
+msgid "Questions answered by %s"
+msgstr "answer"
+
+#, c-format
+msgid "Questions asked by %s"
+msgstr "Asked"
+
+#, c-format
+msgid "Questions you subscribed %s"
+msgstr "Tags"
+
+msgid "Real name"
+msgstr "نام حقیقی"
+
+msgid "Recent awards"
+msgstr "جدیدترین نشان ها"
+
+msgid "Recent tags"
+msgstr "برچسب های جدید"
+
+msgid "Registered user"
+msgstr "کاربر ثبت نام شده"
+
+msgid "Related questions"
+msgstr "سوالات مرتبط"
+
+msgid "Related tags"
+msgstr "برچسب های مرتبط"
+
+msgid "Reputation"
+msgstr "مشهورترین"
+
+msgid "Revision history"
+msgstr "تاریخچه ویرایش ها"
+
+msgid "Save edit"
+msgstr "ذخیره ویرایش"
+
+msgid "Screen Name"
+msgstr "نام کاربری"
+
+msgid "Screen name"
+msgstr "نام کاربری"
+
+msgid "Search"
+msgstr "جست و جو"
+
+msgid "Search results"
+msgstr "نتیجه جست و جو"
+
+msgid "Security code"
+msgstr "کد امنیتی"
+
+msgid "Send me a validation link."
+msgstr "ارسال لینک تایید اعتبار به من."
+
+msgid "Sender"
+msgstr "فرستنده"
+
+#, c-format
+msgid ""
+"Sorry but anonymous users cannot %(action)s.<br />Please login or create an "
+"account <a href='%(signin_url)s'>here</a>."
+msgstr ""
+"متاسفیم، کابر مهمان نمیتواند %(action)s را انجام دهد. شما میتوانید با "
+"استفاده از دکمه <b>ورود</b> وارد شوید، یا یک حساب کاربری بسازید."
+
+msgid "Submit"
+msgstr "ارسال"
+
+msgid "Tag list"
+msgstr "لیست برچسب ها"
+
+msgid ""
+"Tags are short keywords, with no spaces within. At least %(min)s and up to "
+"%(max)s tags can be used."
+msgstr ""
+"برچسب ها کلمات کلیدی کوتاه هستند. برچسب ها بدون فاصله هستند. (به جای فاصله "
+"از \"-\"استفاده کنید). برچسب ها حداقل باید %(min)s و %(max)s حداکثر  طول داشته "
+"باشند."
+
+msgid "Thank you, your email is now validated."
+msgstr "ممنونیم، ایمیل شما تایید شده."
+
+msgid "The permanent URL to the answer has been copied to your clipboard."
+msgstr "لینک دائم مربوط به جواب در کلیب بودر شما ذخیره شد."
+
+msgid "This is where you can change your password. Make sure you remember it!"
+msgstr ""
+"<span class='strong'>To change your password</span> please fill out and "
+"submit this form"
+
+msgid "This post is useful (click again to undo)"
+msgstr "دادن امتیاز مثبت"
+
+msgid "Title Tips"
+msgstr "چه طور باید سوال بپرسم؟"
+
+msgid "Topics"
+msgstr "تاپیک ها"
+
+msgid "Unanswered Questions"
+msgstr "سوالات بدون جواب"
+
+msgid "Unanswered questions"
+msgstr "سوالات جواب داده نشده"
+
+msgid "Unpublish"
+msgstr "تعلیق"
+
+msgid "Unpublished"
+msgstr "تعلیق شده"
+
+msgid "Update"
+msgstr "بروز رسانی"
+
+msgid "User login"
+msgstr "ورود کاربر"
+
+msgid "User tools"
+msgstr "ابزار کاربر"
+
+msgid "Users"
+msgstr "کاربران"
+
+msgid "Validated"
+msgstr "تایید شده"
+
+msgid "Website"
+msgstr "وب سایت"
+
+msgid "What Are Tags"
+msgstr "برچسب ها چی هستند؟"
+
+msgid "Would you like to copy the permanent link to your clipboard?"
+msgstr "آیا می خواهید این لینک را در کلیب بودر خود ذخیره کنید؟"
+
+msgid "Yes"
+msgstr "بله"
+
+msgid "Your answer"
+msgstr "جواب شما"
+
+msgid "Your message:"
+msgstr "پیام شما"
+
+msgid "Your name:"
+msgstr "نام شما"
+
+msgid "Your password was changed"
+msgstr "گذارواژه شما تغییر کرد."
+
+msgid "about"
+msgstr "درباره"
+
+msgid "accept rate"
+msgstr "نرخ قبول"
+
+msgid "active"
+msgstr "فعال"
+
+msgid "active answers"
+msgstr "جواب های فعال"
+
+msgid "add"
+msgstr "اضافه کردن"
+
+msgid "add new comment"
+msgstr "اضافه کردن پانویس"
+
+msgid "administration"
+msgstr "مدیریت"
+
+msgid "age"
+msgstr "سن"
+
+msgid "age unit"
+msgstr "ساله"
+
+msgid "all awards"
+msgstr "تمام مدال ها"
+
+msgid "anonymous"
+msgstr "کاربر مهمان"
+
+msgid "answer"
+msgstr "جواب"
+
+msgid "answer tips"
+msgstr "Tips"
+
+msgid "answered"
+msgstr "جواب داده شده"
+
+msgid "answers"
+msgstr "جواب"
+
+msgid "ask a question"
+msgstr "پرسیدن سوال"
+
+msgid "asked"
+msgstr "پرسیده شده"
+
+msgid "authentication settings"
+msgstr "تنظیمات احراز هویت"
+
+msgid "award points"
+msgstr "امتیاز"
+
+#, c-format
+msgid "award points to %s"
+msgstr "امتیاز دادن به %s"
+
+msgid "back"
+msgstr "عقب"
+
+msgid "back to home page"
+msgstr "بازگشت به صفحه اصلی"
+
+msgid "back to previous page"
+msgstr "بازگشت به صفحه قبل"
+
+msgid "badges"
+msgstr "مدال ها"
+
+msgid "be clear and concise"
+msgstr "باید واضح و مختصر باشد"
+
+msgid "bronze"
+msgstr "Bronze"
+
+msgid "bronze badge description"
+msgstr ""
+"Bronze badges recognise active participation in the site. Wear them with "
+"pride!"
+
+msgid "by name"
+msgstr "براساس نام"
+
+msgid "by popularity"
+msgstr "براساس محبوبیت"
+
+msgid "by username"
+msgstr "نام کاربری"
+
+msgid "cancel"
+msgstr "انصراف"
+
+msgid "character"
+msgstr "حرف"
+
+msgid "characters"
+msgstr "حرف"
+
+msgid "choose a username"
+msgstr "نام کاربری"
+
+msgid "choose ignored tag"
+msgstr "انتخاب برچسب برای نادیده گرفتن"
+
+msgid "choose interesting tag"
+msgstr "انتخاب برچسب به عنوان جالب"
+
+msgid "choose password"
+msgstr "گذرواژه"
+
+msgid "close"
+msgstr "بستن"
+
+msgid "community wiki"
+msgstr "ویکی"
+
+msgid "contact"
+msgstr "تماس"
+
+msgid "convert to comment"
+msgstr "تبدیل به پانویس"
+
+msgid "convert to question"
+msgstr "ارسال جواب"
+
+msgid "cookie policy details"
+msgstr ""
+"Forum software relies on the internet cookie technology to keep track of "
+"user sessions. Cookies must be enabled in your browser so that forum can "
+"work for you."
+
+msgid "create account"
+msgstr "ثبت نام"
+
+msgid "days"
+msgstr "زوز"
+
+msgid "delete"
+msgstr "حذف"
+
+msgid "details on personal information policies"
+msgstr ""
+"Members of this community may choose to display personally identifiable "
+"information in their profiles. Forum will never display such information "
+"without a request from the user."
+
+msgid "details on sharing data with third parties"
+msgstr ""
+"None of the data that is not openly shown on the forum by the choice of the "
+"user is shared with any third party."
+
+msgid "edit"
+msgstr "ویرایش"
+
+msgid "edit profile"
+msgstr "ویرایش نمایه"
+
+msgid "edited"
+msgstr "ویرایش شده"
+
+msgid "email"
+msgstr "ایمیل"
+
+msgid "email notification settings"
+msgstr "تنظیمات اطلاع رسانی با ایمیل"
+
+msgid ""
+"enter a brief summary of your revision (e.g. fixed spelling, grammar, "
+"improved style, this field is optional)"
+msgstr ""
+"خلاصه ای از بروز رسانی این نسخه را وارد کنید (به عنوان مثال تصحیح املا، "
+"دستور زبان، بهبود سبک، این فیلد اختیاری است)"
+
+msgid "faq"
+msgstr "سوالات متداول"
+
+msgid "favorite"
+msgstr "مورد علاقه"
+
+msgid "favorites"
+msgstr "علاقه مندی ها"
+
+msgid "general message about privacy"
+msgstr ""
+"Respecting users privacy is an important core principle of this Q&amp;A "
+"forum. Information on this page details how this forum protects your privacy,"
+" and what type of information is collected."
+
+msgid "gold"
+msgstr "Gold"
+
+msgid "gold badge description"
+msgstr "Gold badges are rare. You'll need to work hard to earn one of these."
+
+msgid "here"
+msgstr "اینجا"
+
+msgid "hide preview"
+msgstr "پنهان کردن پیش نمایش"
+
+msgid "home"
+msgstr "خانه"
+
+msgid "hottest"
+msgstr "داغترین"
+
+msgid "hottest questions"
+msgstr "داغترین سوالات"
+
+msgid "hour ago"
+msgstr "ساعت قبل"
+
+msgid "hours ago"
+msgstr "ساعت پیش"
+
+msgid "how privacy policies can be changed"
+msgstr ""
+"These policies may be adjusted to improve protection of user's privacy. "
+"Whenever such changes occur, users will be notified via the internal "
+"messaging system. "
+
+msgid ""
+"if you choose community wiki option, the question and answer do not generate "
+"points and name of author will not be shown"
+msgstr ""
+"اگر شما گزینه ویکی را انتخاب کنید، در پرسش و پاسخ ها نام و امتیاز نویسنده "
+"نشان داده نمی شود."
+
+msgid "image"
+msgstr "عکس"
+
+msgid "last"
+msgstr "آخرین"
+
+msgid "last seen"
+msgstr "آخرین بازدید"
+
+msgid "last updated"
+msgstr "آخرین ویرایش"
+
+msgid "last week"
+msgstr "هفته پیش"
+
+msgid "latest questions"
+msgstr "آخرین سوالات"
+
+msgid "link"
+msgstr "لینک"
+
+msgid "location"
+msgstr "محل"
+
+msgid "login"
+msgstr "ورود"
+
+msgid "logout"
+msgstr "خروج"
+
+msgid "main page"
+msgstr "صفحه اصلی"
+
+msgid "manage"
+msgstr "مدیریت"
+
+msgid "mark a question as favorite"
+msgstr "علامت زدن به عنوان علاقه مندی"
+
+msgid "mark as community wiki"
+msgstr "علامت گذاری به عنوان ویکی"
+
+msgid "mark/unmark this question as favorite (click again to cancel)"
+msgstr "مورد علاقه"
+
+msgid "member for"
+msgstr "تاریخ عضویت"
+
+msgid "min ago"
+msgstr "یک دقیقه قبل"
+
+msgid "mins ago"
+msgstr "دقیقه پیش"
+
+msgid "more"
+msgstr "بیشتر"
+
+msgid "most <strong>active</strong> questions in the last 24 hours</strong>"
+msgstr "<strong>آخرین سوالات فعال در 24 ساعت گذشته</strong>"
+
+msgid "most <strong>recently asked</strong> questions"
+msgstr "<strong>جدیدترین سوالات پرسیده شده</strong>"
+
+msgid "most <strong>voted</strong> questions"
+msgstr " سوالات با بیشترین مدال"
+
+msgid "most recently updated answers/comments will be shown first"
+msgstr "نمایش پاسخ های به روز شده / دیدگاه ها جدیدتر بالاتر قرار میگیرند"
+
+msgid "most voted"
+msgstr "بیشترین مدال"
+
+msgid "most voted answers will be shown first"
+msgstr "نمایش جواب های به ترتیب رای"
+
+msgid "most voted questions"
+msgstr "سوالات با بیشترین مدال"
+
+msgid "mostvoted"
+msgstr "بیشترین مدال"
+
+msgid "name"
+msgstr "نام"
+
+msgid "new"
+msgstr "جدید"
+
+msgid "newest"
+msgstr "جدیدترین"
+
+msgid "newest answers"
+msgstr "جدیدترین جواب ها"
+
+msgid "newest answers will be shown first"
+msgstr "نمایش جواب ها به ترتیب جدیدترین"
+
+msgid "newest members"
+msgstr "مرتب سازی براساس جدیدترین کاربران"
+
+msgid "next"
+msgstr "بعد"
+
+msgid "next page"
+msgstr "صفحه ی بعد"
+
+msgid "not validated"
+msgstr "تایید نشده"
+
+msgid "oldest"
+msgstr "قدیمی ترین"
+
+msgid "oldest answers"
+msgstr "قدیمی ترین جواب ها"
+
+msgid "oldest answers will be shown first"
+msgstr "نمایش جواب ها به ترتیب قدیمی ترین"
+
+msgid "oldest members"
+msgstr "مرتب سازی براساس قدیمی ترین کاربران"
+
+msgid "on %(link)s"
+msgstr "لینک"
+
+msgid "open questions without an accepted answer"
+msgstr "سوالات باز بدون جواب پذیرفته شده"
+
+msgid "openid is supported open standard"
+msgstr "OpenID is based on an open standard, supported by many organizations."
+
+msgid "openid is widely adopted"
+msgstr ""
+"There are > 160,000,000 OpenID account in use. Over 10,000 sites are OpenID-"
+"enabled."
+
+msgid "other preferences"
+msgstr "دیگر تنظیمات"
+
+msgid "overview"
+msgstr "دید کلی"
+
+msgid "page number "
+msgstr "شماره صفحه"
+
+msgid "permanent link"
+msgstr "لینک"
+
+msgid "place your advertising"
+msgstr "محل تبلیغات شما"
+
+msgid "please enter a descriptive title for your question"
+msgstr "لطفا یک عنوان مناسب برای سوال خود وارد کنید"
+
+msgid "popular answers"
+msgstr "مشهورترین جواب ها"
+
+msgid "popular tags"
+msgstr "پرکاربردترین برچسب ها"
+
+msgid "posts per page"
+msgstr "سوالات در هر صفحه"
+
+msgid "previous"
+msgstr "قبلی"
+
+msgid "profile"
+msgstr "پروفایل"
+
+msgid "published"
+msgstr "منتشر شده"
+
+msgid "question"
+msgstr "سوال"
+
+msgid "question asked"
+msgstr "پرسیده شده"
+
+msgid "question was seen"
+msgstr "مشاهده"
+
+msgid "questions"
+msgstr "سوالات"
+
+msgid "questions with no answers"
+msgstr "سوالات بدون جواب"
+
+msgid "real name"
+msgstr "نام حقیقی"
+
+msgid "recent"
+msgstr "جدیدترین"
+
+msgid "recent activity"
+msgstr "آخرین فعالیت"
+
+msgid "recent user activity"
+msgstr "آخرین فعالیت های کاربر"
+
+msgid "remove"
+msgstr "پاک کردن"
+
+msgid "repeat passage not equal width password"
+msgstr "تکرار گذرواژه با گذرواژه برابر نیست."
+
+msgid "repeat password"
+msgstr "تکرار گذرواژه"
+
+msgid "report"
+msgstr "گزارش"
+
+msgid "reputation"
+msgstr "شهرت"
+
+msgid "reputation history"
+msgstr "تاریخچه فعالیت"
+
+msgid "reputation points"
+msgstr "karma"
+
+msgid "retag"
+msgstr "برچسب گزاری مجدد"
+
+msgid "retype password"
+msgstr "گزرواژه <i>(لطفا دوباره وارد کنید)</i>"
+
+msgid "reuse openid"
+msgstr "You can safely re-use the same login for all OpenID-enabled websites."
+
+msgid "revision"
+msgstr "نسخه ها"
+
+msgid "save"
+msgstr "ذخیره"
+
+msgid "search"
+msgstr "جست و جو"
+
+msgid "search on"
+msgstr "جست و جو در"
+
+msgid "sec ago"
+msgstr "همین الان"
+
+msgid "secs ago"
+msgstr "ثانیه پیش"
+
+msgid "see all questions"
+msgstr "مشاهد تمام سوالات"
+
+msgid "see all tags"
+msgstr "مشاهده تمام برچسب ها"
+
+msgid "see questions tagged"
+msgstr "سوالات مرتبط را ببینید"
+
+msgid "see questions tagged '%(tag_name)s'"
+msgstr "سوالات با برچسب '%(tag_name)s' را ببینید"
+
+msgid "see revisions"
+msgstr "بدون جواب"
+
+msgid "see tags"
+msgstr "مشاهده برچسب ها"
+
+msgid "select revision"
+msgstr "انتخاب نسخه"
+
+msgid "show all"
+msgstr "نمایش همه"
+
+msgid "show preview"
+msgstr "نمایش پیش نمایش"
+
+msgid "signup"
+msgstr "ثبت نام"
+
+msgid "silver"
+msgstr "Silver"
+
+msgid "silver badge description"
+msgstr "Silver badges aren't common. They take work and attention to earn."
+
+msgid "site rules"
+msgstr "قوانین سایت"
+
+msgid "sorted alphabetically"
+msgstr "مرتب سازی براساس الفبا"
+
+msgid "sorted by frequency of tag use"
+msgstr "مرتب سازی براساس تعداد دفعات استفاده از برچسب"
+
+msgid "sorted by reputation"
+msgstr "مرتب سازی براساس مشهورترین"
+
+msgid "sorted by title"
+msgstr "مرتب سازی بر اساس عنوان"
+
+msgid "sorted by username"
+msgstr "مرتب سازی براساس نام کاربری"
+
+msgid "study field"
+msgstr "رشته تحصیلی"
+
+msgid "study group"
+msgstr "گروه تحصیلی"
+
+msgid "submit"
+msgstr "ارسال"
+
+msgid "tags"
+msgstr "برچسب ها"
+
+msgid "text"
+msgstr "متن"
+
+msgid "the question \"%(question_title)s\""
+msgstr "جواب خود را ارسال کنید"
+
+msgid "the question %(question_link)s"
+msgstr "Post Your Answer"
+
+msgid "this email already use."
+msgstr "این ایمیل قبلا استفاده شده است."
+
+msgid "this question has an accepted answer"
+msgstr "این سوال یک جواب پذیرفته شده دارد"
+
+msgid "this username already choose."
+msgstr "این نام کاربری قبلا انتخاب شده است."
+
+msgid "times"
+msgstr "دفعه"
+
+msgid "title"
+msgstr "عنوان"
+
+msgid "topic"
+msgstr "تاپیک"
+
+msgid "unanswered"
+msgstr "سوالات بدون جواب"
+
+msgid "update summary:"
+msgstr "نتیجه بروزرسانی"
+
+msgid "uploading images is limited to users with >60 reputation points"
+msgstr "sorry, file uploading requires karma >60"
+
+msgid "used"
+msgstr "استفاده شده"
+
+msgid "user overview"
+msgstr "دید کلی کاربر"
+
+msgid "user's website"
+msgstr "وب سایت"
+
+msgid "users"
+msgstr "کاربران"
+
+msgid "using tags"
+msgstr "برچسب های استفاده شده"
+
+msgid "view"
+msgstr "بازدید"
+
+msgid "views"
+msgstr "بازدید"
+
+msgid "vote"
+msgstr "مدال"
+
+msgid "votes"
+msgstr "مدال"
+
+msgid "welcome to "
+msgstr "خوش آمدید به"
+
+msgid "what technical information is collected about visitors"
+msgstr ""
+"Information on question views, revisions of questions and answers - both "
+"times and content are recorded for each user in order to correctly count "
+"number of views, maintain data integrity and report relevant updates."
+
+msgid "with openid it is easier"
+msgstr "With the OpenID you don't need to create new username and password."
+
+msgid "word"
+msgstr "کلمه"
+
+msgid "words"
+msgstr "کلمه"
+
+msgid "yesterday"
+msgstr "دیروز"
+
+msgid "your email address"
+msgstr "ایمیل <i>(پنهان از دیگران)</i>"
+
+msgid "Your answer will be displayed after approval of experts."
+msgstr "جواب شما بعد از تایید کارشناسان نمایش داده خواهد شد."
+
+msgid "Your question after experts confirmed will be displayed."
+msgstr "سوال شما بعد از تایید کارشناسان نمایش داده خواهد شد."
+
+msgid "Username must be Alphanumeric, can not begin number"
+msgstr ""
+"نام کاربری فقط میتواند با حروف انگلیسی و عدد باشد. و نمیتواند با عدد شروع "
+"شود."
